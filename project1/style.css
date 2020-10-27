@@ -1,0 +1,47 @@
+
+div {
+    background: black;
+    height: 40px;
+    text-align: center;
+}
+
+div a:nth-child(1)
+{
+  color: red;
+}
+
+div a:nth-child(2)
+{
+  color: aqua
+}
+
+div a:nth-child(3)
+{
+  color: yellow;
+}
+
+#first {
+   color: white;
+   background-color: red;}
+#second {
+   color: grey;
+   background-color: orange;}
+#third {
+   color: black;
+   background-color: yellow;}
+#one {
+   olor: black;
+   background-color: yellow;
+}
+#two {
+  color: grey;
+   background-color: orange;
+}
+#three{
+  color: white;
+   background-color: red;
+}
+img {
+     height: 70px;
+    text-align: center:
+  }
